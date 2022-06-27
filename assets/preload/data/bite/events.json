@@ -1,0 +1,309 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "pizzeria",
+		"player1": "mark",
+		"player2": "feddy",
+		"player3": null,
+		"events": [
+			[
+				642.857142857143,
+				[
+					[
+						"Change Captions",
+						"Hello everybody!",
+						""
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"Change Captions",
+						"Hello everybody! My name is Markiplier",
+						""
+					]
+				]
+			],
+			[
+				2642.85714285714,
+				[
+					[
+						"Change Captions",
+						"and welcome to",
+						""
+					]
+				]
+			],
+			[
+				3428.57142857143,
+				[
+					[
+						"Change Captions",
+						"and welcome to Five",
+						""
+					]
+				]
+			],
+			[
+				3857.14285714286,
+				[
+					[
+						"Change Captions",
+						"and welcome to Five Nights",
+						""
+					]
+				]
+			],
+			[
+				4214.28571428571,
+				[
+					[
+						"Change Captions",
+						"and welcome to Five Nights at",
+						""
+					]
+				]
+			],
+			[
+				4428.57142857143,
+				[
+					[
+						"Change Captions",
+						"and welcome to Five Nights at Freddy's.",
+						""
+					]
+				]
+			],
+			[
+				4857.14285714286,
+				[
+					[
+						"Change Captions",
+						"An indie horror game",
+						""
+					]
+				]
+			],
+			[
+				5642.85714285714,
+				[
+					[
+						"Change Captions",
+						"An indie horror game that YOU GUYS",
+						""
+					]
+				]
+			],
+			[
+				6071.42857142857,
+				[
+					[
+						"Change Captions",
+						"suggested (in mass) and I saw that",
+						""
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Change Captions",
+						"Yamimash played it",
+						""
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Change Captions",
+						"Yamimash played it and he said it was",
+						""
+					]
+				]
+			],
+			[
+				9714.28571428571,
+				[
+					[
+						"Change Captions",
+						"REALLY",
+						""
+					]
+				]
+			],
+			[
+				10142.8571428571,
+				[
+					[
+						"Change Captions",
+						"REALLY REALLY",
+						""
+					]
+				]
+			],
+			[
+				10857.1428571429,
+				[
+					[
+						"Change Captions",
+						"REALLY REALLY good!",
+						""
+					]
+				]
+			],
+			[
+				11428.5714285714,
+				[
+					[
+						"Change Captions",
+						"So I'm very eager to see",
+						""
+					]
+				]
+			],
+			[
+				13000,
+				[
+					[
+						"Change Captions",
+						"what is up...",
+						""
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Change Captions",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35428.5714285714,
+				[
+					[
+						"Change Character",
+						"dad",
+						"goldy"
+					]
+				]
+			],
+			[
+				73928.5714285715,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fucksee"
+					]
+				]
+			],
+			[
+				104071.428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy-hater"
+					]
+				]
+			],
+			[
+				110857.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy"
+					]
+				]
+			],
+			[
+				145714.285714286,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy-hater"
+					]
+				]
+			],
+			[
+				146071.428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy"
+					]
+				]
+			],
+			[
+				155500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy-hater"
+					]
+				]
+			],
+			[
+				156071.428571428,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy"
+					]
+				]
+			],
+			[
+				156857.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy-hater"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"feddy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bite"
+	}
+}
